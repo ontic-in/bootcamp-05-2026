@@ -1,7 +1,7 @@
 const readline = require('readline');
 
 function distanceBetweenPoints(x1, y1, x2, y2){
-    return ;
+    return 0;
 }
 
 if (require.main === module) {
